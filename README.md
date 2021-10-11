@@ -1,5 +1,6 @@
 # somato_align_age_WB
 SRM of the S1 with age differences and in the WB as well 
+
 Steps:-(Preparing the datasets for SRM)
 
 Step1: Preprocessing with SPM_batch_analyses_combined.m will be used as a localizer 
