@@ -1,0 +1,14 @@
+lh.BA1.thresh.label
+lh.BA2.thresh.label
+lh.BA3a.thresh.label
+lh.BA3b.thresh.label
+lh.BA4a.thresh.label
+lh.BA4p.thresh.label
+lh.BA6.thresh.label
+rh.BA1.thresh.label
+rh.BA2.thresh.label
+rh.BA3a.thresh.label
+rh.BA3b.thresh.label
+rh.BA4a.thresh.label
+rh.BA4p.thresh.label
+rh.BA6.thresh.label
