@@ -14,3 +14,8 @@ Step2.b: Label to volume conversion
 Step3: Coregistration ants_transform_all.sh
 - (Input:adata.nii(functional data), subj/mri/brain.nii(skull-stripped anatomical data generated after recon-all), subj/mri/init_auto.txt(itk-snap manual registration matrix)) 
 - (Output: subj/coreg1.ni.gz,coreg2.nii.gz for run1 and 2 respectively)
+
+After obtaining the dataset arrays post masking, 
+- Age group prediction : age_classification.py
+- Digit-wise euclidean distance plots:  distance_matrices_HEMI_vox.py
+
